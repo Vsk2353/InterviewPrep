@@ -29,4 +29,6 @@ public class Q1295 {
     }
 }
 
-
+/*
+Trick : using return (int)(Math.log10(num)) +1 ;
+ */
